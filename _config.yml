@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohammed Bouaziz"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ingénieur & Doctorant"
   location         : "Casablanca, MA"
   email            : "bouaziz.tech@gmail.com"
