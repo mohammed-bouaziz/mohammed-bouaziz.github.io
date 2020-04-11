@@ -99,8 +99,8 @@ author:
   location         : "Casablanca, MA"
   email            :
   links:
-  - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+    - label: "Email"
+        icon: "fas fa-fw fa-envelope-square"
        #url: mailto:bouaziz.tech@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
