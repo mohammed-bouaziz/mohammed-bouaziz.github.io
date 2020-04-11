@@ -95,7 +95,9 @@ analytics:
 author:
   name             : "Mohammed Bouaziz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ingénieur </br> Doctorant </br> Deep learning & AI"
+  bio              : "Ingénieur"
+  bio              : "Doctorant"
+  bio              : "Deep learning & AI"
   location         : "Casablanca, MA"
   email            : "bouaziz.tech@gmail.com"
   github           : "mohammed-bouaziz"
