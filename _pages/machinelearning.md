@@ -1,8 +1,7 @@
 ---
-layout: archive-single
+
 permalink: /machine-learning/
 title: "Publications sur Machine Learning par Tags"
-author_profile: true
 header: 
     image: "/images/mekka.jpg"
 ---
