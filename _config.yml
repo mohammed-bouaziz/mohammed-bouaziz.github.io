@@ -97,10 +97,10 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ingénieur, doctorant en deep learning et AI"
   location         : "Casablanca, MA"
-  email            :
+  email            : "bouaziz.tech@gmail.com"
   links:
     - label: "Email"
-        icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
        #url: mailto:bouaziz.tech@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
