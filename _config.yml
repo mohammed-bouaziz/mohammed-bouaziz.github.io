@@ -98,6 +98,8 @@ author:
   bio              : "Ingénieur, doctorant en deep learning et AI"
   location         : "Casablanca, MA"
   email            : "bouaziz.tech@gmail.com"
+  github           : "mohammed-bouaziz"
+  linkedin         : "mohammed bouaziz"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
