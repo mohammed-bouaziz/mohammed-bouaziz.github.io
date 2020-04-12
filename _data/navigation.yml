@@ -2,8 +2,8 @@
 main:
   - title: "Qui suis-je ?"
     url: /about/
-  - title: "Machine Learning"
-    url: /machine-learning/
+  - title: "Mes Articles"
+    url: /mes-articles/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

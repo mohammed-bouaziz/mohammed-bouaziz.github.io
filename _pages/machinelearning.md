@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /machine-learning/
-title: "Publications sur Machine Learning par Tags"
+permalink: /mes-articles/
+title: "Mes Articles"
 author_profile: true
 header: 
-    image: "/images/jik.jpg"
+    image: "/images/astro.jpg"
 ---
 
 
