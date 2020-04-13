@@ -48,5 +48,5 @@ header:
 
 	J'ai d'abbord fait l'extraction (scraping ou crawling) des données de ventes des smartphones sur l'API d'Amazon, j'ai ensuite analysé ces données pour classifier les marques et modéles les plus vendus. J'ai ensuite collécté les commentaires et notes données sur chaque modèle, j'ai calculé une note moyenne pour chaque modèles vendu et j'ai ensuite classifier les modèles en fonction des notes rendu. Finalement le modèle final nous permet de prédire les ventes semestriel d'un smartphone en se basant sur les notes des 50 premièrs clients. 
 
-* **Ces projets sont publiès avec les diagrammes, modèles mathématiques et les snippets de codes finaux dans la section Blog**    
+* **Ces projets sont publiès avec les diagrammes, modèles mathématiques et les snippets de codes finaux dans la section Mes Articles**    
 
