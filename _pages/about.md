@@ -2,7 +2,7 @@
 title: "Qui suis-je ?"
 permalink: /about/
 header: 
-    image: "/images/hy.jpg"
+    image: "/images/lnd.jpg"
 ---
 
 # Mohammed BOUAZIZ

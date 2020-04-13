@@ -4,7 +4,7 @@ permalink: /mes-articles/
 title: "Mes Articles"
 author_profile: true
 header: 
-    image: "/images/astro.jpg"
+    image: "/images/spx.jpg"
 ---
 
 
