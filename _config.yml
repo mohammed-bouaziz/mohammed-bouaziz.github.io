@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: MB's Ground Zero 
+name: Ground Zero 
 
 # Short bio or description (displayed in the header)
-description: So What's going on under the hood of all this fancy tech ? We find out together.
+description: So What's going on under the hood of all this fancy tech ?
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/63472622?v=4
+avatar: https://mohammed.sirv.com/ground%20zero/profile.jpg
 
 #
 # Flags below are optional
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://mohammed-bouaziz.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
